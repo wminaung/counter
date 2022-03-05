@@ -1,0 +1,25 @@
+.title {
+  background-color: red;
+  color: white;
+  margin: 1rem;
+  padding: 1rem;
+  font-size: 18px;
+  border-radius: 1rem;
+}
+
+.delete {
+  background: red;
+  border-radius: 40%;
+  border: 0;
+  color: white;
+  float: right;
+}
+.input {
+  background-color: transparent;
+  color: white;
+  font-size: 18px;
+  border: 0px;
+}
+.input:focus {
+  outline: none;
+}
